@@ -432,4 +432,4 @@ async def disableqotd(ctx):
     await ctx.send(embed=em)
 
 #run event
-client.run("ODgzMTg2ODE1MzU4NjA3NDIw.GZUo9a.Pmrr0tR55X7NkOhWXIuEhzSnUvCG7EQqoVz9Bo") 
+client.run("YOUR_TOKEN_HERE") 
